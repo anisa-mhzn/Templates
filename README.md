@@ -14,10 +14,10 @@ This repository is created for learning, ptacticing and understanding the basic 
 ## How to Run
 
 ### Compile<br>
-   - g++ class_templates.cpp ~o class_templates
+    - g++ class_templates.cpp ~o class_templates
 
 ### Run<br>
-   - ./class_templates
+    - ./class_templates
 
 ## Author
 **Anisha Maharjan**
